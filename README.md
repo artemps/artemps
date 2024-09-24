@@ -27,4 +27,4 @@ In addition to commercial development, I do Dota analytics/statistics
 
 ## 🤝 Connect with me
 
-[![Email me](https://img.shields.io/badge/me@vas3k.ru%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:fised@mail.ru) [![Telegram Me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fised)
+[![Email me](https://img.shields.io/badge/fised@mail.ru%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:fised@mail.ru) [![Telegram Me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fised) [![Telegram Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fisedme)
