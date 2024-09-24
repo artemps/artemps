@@ -23,7 +23,7 @@ I'm python developer with 6+ years expirience.
 
 ## 🐶 My pet-projects
 
-In addition to commercial development, I do date analytics, statistics and match data
+In addition to commercial development, I do Dota analytics/statistics
 
 ## 🤝 Connect with me
 
