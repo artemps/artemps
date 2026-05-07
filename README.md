@@ -2,8 +2,6 @@
 
 I'm python developer with 8+ years expirience.
 
-#### My CV: [Artem P](https://career.habr.com/artemps)
-
 ## 🛠 My fancy badge area
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
